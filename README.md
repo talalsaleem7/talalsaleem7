@@ -25,12 +25,23 @@ src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gi
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://instagram.com/_talalsaleem_" target="_blank">
+
+<a href="https://www.linkedin.com/in/talal-saleem" target="_blank">
 <img align="center"
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="Talal Saleem"
 height="30"
 width="40"/>
 </a>
+
+<a href="https://instagram.com/_talalsaleem_" target="_blank">
+<img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+alt="_talalsaleem_"
+height="30"
+width="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Languages & Tools:</h3>
