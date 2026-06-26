@@ -1,7 +1,8 @@
 ![Header](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Talal Saleem</h1>
 <h3 align="center">A dedicated data scientist with a focus on machine learning and data analysis</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2ab1b2eaee589c54a0e499969d2567dece1c83239972c8351301d24eba78e41e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35342f65332f37642f35346533376438303734656263646531643936633737643762326137663331302e676966">
+<img align="right" alt="Coding" width="400"
+src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talalsaleem7&label=Profile%20views&color=0e75b6&style=flat" alt="talalsaleem7" /> </p>
 
 
